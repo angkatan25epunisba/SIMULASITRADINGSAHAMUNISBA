@@ -85,7 +85,7 @@ function getBankPriceByCode(code) {
 const BANK_STOCKS = [
   // ── Bank BUMN ────────────────────────────────────────
   { ticker: 'BBRI.JK', code: 'BRI',     name: 'Bank BRI',              category: 'BUMN',       color: '#F44336', basePrice: 4200 },
-  { ticker: 'BBCA.JK', code: 'BCA',     name: 'Bank Central Asia',     category: 'BUMN',       color: '#1565C0', basePrice: 9350 },
+  { ticker: 'BBCA.JK', code: 'BCA',     name: 'Bank Central Asia',     category: 'Swasta',       color: '#1565C0', basePrice: 9350 },
   { ticker: 'BMRI.JK', code: 'MANDIRI', name: 'Bank Mandiri',          category: 'BUMN',       color: '#F9A825', basePrice: 6800 },
   { ticker: 'BBNI.JK', code: 'BNI',     name: 'Bank BNI',              category: 'BUMN',       color: '#FF8F00', basePrice: 5300 },
   { ticker: 'BBTL.JK', code: 'BTN',     name: 'Bank BTN',              category: 'BUMN',       color: '#2E7D32', basePrice: 1340 },
